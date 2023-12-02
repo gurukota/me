@@ -19,7 +19,7 @@ export const experience = {
       date: "2019 - 2020",
       description:
         "Coded, debugged, and implemented software features, collaborating with cross-functional teams to achieve project goals, and staying updated on industry trends. I actively participated in code reviews and troubleshoot issues.",
-      tech: ["Java", "JavaScript", "React", "Redux", "SAPUI5", "SAP HANA"],
+      tech: ["PHP", "JavaScript", "React", "Redux"],
     },
   ],
 };
@@ -45,10 +45,10 @@ export const projects = {
     {
       title: "COVID-19 Facebook chatbot",
       url: "https://github.com/gurukota/COVID-19-ZIM-API",
-      imageUrl: "/images/api.png",
+      imageUrl: "/images/chatbot.jpg",
       description:
         " Facebook Chatbot integrated with the COVID-19 Stats API for Zimbabwe. Empowered users to effortlessly retrieve and interact with pandemic data directly through the Facebook Messenger platform, enhancing accessibility and user engagement.",
-      tech: ["Botman"],
+      tech: ["PHP", "Botman"],
     },
   ],
 };

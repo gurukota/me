@@ -22,7 +22,6 @@ export const ProjectCard = ({ data }) => {
                   <span>
                     {project.title}
                     <span className="inline-block">
-                      App
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 20 20"

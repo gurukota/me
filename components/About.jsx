@@ -12,8 +12,8 @@ export const About = () => {
       </div>
       <div>
         <p className="mb-4">
-          My journey in software engineering has been a fascinating ride. From
-          contributing to projects in{" "}
+          I'm an innovative Software Engineer with a knack for turning complex
+          challenges into creative solutions. With over 3 years of experience in{" "}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="https://upstatement.com/"
@@ -21,10 +21,10 @@ export const About = () => {
             rel="noreferrer"
           >
             {" "}
-            tech consultancy{" "}
+            full-stack development{" "}
           </a>
-          to finding my current groove in the transport sector. While my mom
-          think I'm just a{" "}
+          , I thrive on pushing the boundaries of what's possible. Proficient in
+          front-end technologies{" "}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="https://upstatement.com/"
@@ -32,11 +32,9 @@ export const About = () => {
             rel="noreferrer"
           >
             {" "}
-            very fast typist{" "}
+            HTML, CSS, JavaScript{" "}
           </a>
-          , I create solutions that blend technology seamlessly with
-          transportation needs. It's a realm where I get to tackle challenges
-          like{" "}
+          and frameworks like
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="https://upstatement.com/"
@@ -44,9 +42,10 @@ export const About = () => {
             rel="noreferrer"
           >
             {" "}
-            optimizing logistics{" "}
+            React, Angular & Vue
           </a>
-          and
+          , I craft intuitive user interfaces that leave a lasting impression.
+          On the back-end, I excel in{" "}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="https://upstatement.com/"
@@ -54,15 +53,44 @@ export const About = () => {
             rel="noreferrer"
           >
             {" "}
-            user experiences{" "}
+            Laravel, Node.js, and database management (SQL){" "}
           </a>
-          enhancing, making a tangible impact on the real world.
+          . With an eye for
+          <a
+            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
+            href="https://upstatement.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            {" "}
+            detail & passion for collaboration{" "}
+          </a>
+          , I love tackling projects that make a real impact.
         </p>
         <p className="mb-4">
-          Beyond coding, you'll often find me experimenting with different
-          musical instruments, and finding joy in the creative process of making
-          music. It's a delightful balance that adds a rhythm to both my
-          professional and personal pursuits.
+          Beyond
+          <a
+            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
+            href="https://upstatement.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            {" "}
+            coding
+          </a>
+          , you'll often find me experimenting with different musical
+          instruments, and finding joy in the creative process of
+          <a
+            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
+            href="https://upstatement.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            {" "}
+            making music{" "}
+          </a>
+          .It's a delightful balance that adds a rhythm to both my professional
+          and personal pursuits.
         </p>
       </div>
     </section>
