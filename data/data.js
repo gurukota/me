@@ -28,7 +28,7 @@ export const projects = {
   items: [
     {
       title: "Zita",
-      url: "https://zita.co.zw",
+      url: "https://github.com/gurukota/zita",
       imageUrl: "/images/zita.png",
       description:
         "Web app for enabling users to explore names, their meaning and pronunciation. Users have the ability to contribute their own names to the platform and also discover names added by others.",
