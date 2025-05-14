@@ -29,7 +29,7 @@ export const projects = {
     {
       title: "Zita",
       url: "https://github.com/gurukota/zita",
-      imageUrl: "/images/zita.png",
+      imageUrl: "/me/images/zita.png",
       description:
         "Web app for enabling users to explore names, their meaning and pronunciation. Users have the ability to contribute their own names to the platform and also discover names added by others.",
       tech: ["Next.js", "MongoDB"],
@@ -37,7 +37,7 @@ export const projects = {
     {
       title: "COVID-19 API CASE Zimbabwe",
       url: "https://github.com/gurukota/Covid-19-facebook-chatbot",
-      imageUrl: "/images/api.png",
+      imageUrl: "/me/images/api.png",
       description:
         "Developed and deployed a real-time API providing up-to-date COVID-19 statistics for Zimbabwe. Enabled users to access and visualize key pandemic metrics, contributing to public awareness and informed decision-making.",
       tech: ["Node.js", "Express.js"],
@@ -45,7 +45,7 @@ export const projects = {
     {
       title: "COVID-19 Facebook chatbot",
       url: "https://github.com/gurukota/COVID-19-ZIM-API",
-      imageUrl: "/images/chatbot.jpg",
+      imageUrl: "/me/images/chatbot.jpg",
       description:
         " Facebook Chatbot integrated with the COVID-19 Stats API for Zimbabwe. Empowered users to effortlessly retrieve and interact with pandemic data directly through the Facebook Messenger platform, enhancing accessibility and user engagement.",
       tech: ["PHP", "Botman"],
