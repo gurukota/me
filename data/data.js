@@ -46,7 +46,7 @@ export const projects = {
       {
         title: "Tobacco Grading using ML",
         url: "", // No URL provided
-        imageUrl: "/images/tobacco.png", // Placeholder image
+        imageUrl: "/me/images/tobacco.png", // Placeholder image
         description:
           "Implemented a computer vision-based tobacco grading system, achieving a 95% accuracy rate, reducing grading time by 40%, and enhancing quality control.",
         tech: ["Raspberry Pi", "Ubuntu", "TensorFlow"],
