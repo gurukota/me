@@ -30,7 +30,7 @@ export const projects = {
       {
         title: "ZuriPay SDK",
         url: "https://github.com/gurukota/zuripay",
-        imageUrl: "/images/zuripay.png", // Placeholder image
+        imageUrl: "/me/images/zuripay.png", // Placeholder image
         description:
           "Built an SDK to simplify payment integration with the ZuriPay platform, enabling seamless initiation, verification, and handling of payment transactions. Designed for flexibility and developer-friendliness, the SDK supports callback and promise-based handling with thorough documentation.",
         tech: ["TypeScript", "Node.js", "NPM"],
@@ -38,7 +38,7 @@ export const projects = {
       {
         title: "Zita",
         url: "https://zita-silk.vercel.app/",
-        imageUrl: "/images/zita.png",
+        imageUrl: "/me/images/zita.png",
         description:
           "Developed an open-source website dedicated to helping users explore names, their meaning and pronunciation. Users have the ability to contribute their own names to the database and also discover names added by others.",
         tech: ["Next.js", "MongoDB", "Git", "Vercel"],
@@ -54,7 +54,7 @@ export const projects = {
     {
         title: "COVID-19 API CASE Zimbabwe",
         url: "https://github.com/gurukota/COVID-19-ZIM-API",
-        imageUrl: "/images/api.png",
+        imageUrl: "/me/images/api.png",
         description:
           "Developed and deployed a real-time API providing up-to-date COVID-19 statistics for Zimbabwe. Enabled users to access and visualize key pandemic metrics, contributing to public awareness and informed decision-making.",
       tech: ["Node.js", "Express.js", "mongoDB"],
