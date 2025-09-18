@@ -1,5 +1,6 @@
 export const experience = {
   items: [
+
     {
       title: "Software Engineer",
       company: "Sendem Transport Technology",
@@ -26,29 +27,37 @@ export const experience = {
 
 export const projects = {
   items: [
+      {
+        title: "ZuriPay SDK",
+        url: "https://github.com/gurukota/zuripay",
+        imageUrl: "/images/zuripay.png", // Placeholder image
+        description:
+          "Built an SDK to simplify payment integration with the ZuriPay platform, enabling seamless initiation, verification, and handling of payment transactions. Designed for flexibility and developer-friendliness, the SDK supports callback and promise-based handling with thorough documentation.",
+        tech: ["TypeScript", "Node.js", "NPM"],
+      },
+      {
+        title: "Zita",
+        url: "https://zita-silk.vercel.app/",
+        imageUrl: "/images/zita.png",
+        description:
+          "Developed an open-source website dedicated to helping users explore names, their meaning and pronunciation. Users have the ability to contribute their own names to the database and also discover names added by others.",
+        tech: ["Next.js", "MongoDB", "Git", "Vercel"],
+      },
+      {
+        title: "Tobacco Grading using ML",
+        url: "", // No URL provided
+        imageUrl: "/images/tobacco.png", // Placeholder image
+        description:
+          "Implemented a computer vision-based tobacco grading system, achieving a 95% accuracy rate, reducing grading time by 40%, and enhancing quality control.",
+        tech: ["Raspberry Pi", "Ubuntu", "TensorFlow"],
+      },
     {
-      title: "Zita",
-      url: "https://github.com/gurukota/zita",
-      imageUrl: "/me/images/zita.png",
-      description:
-        "Web app for enabling users to explore names, their meaning and pronunciation. Users have the ability to contribute their own names to the platform and also discover names added by others.",
-      tech: ["Next.js", "MongoDB"],
-    },
-    {
-      title: "COVID-19 API CASE Zimbabwe",
-      url: "https://github.com/gurukota/Covid-19-facebook-chatbot",
-      imageUrl: "/me/images/api.png",
-      description:
-        "Developed and deployed a real-time API providing up-to-date COVID-19 statistics for Zimbabwe. Enabled users to access and visualize key pandemic metrics, contributing to public awareness and informed decision-making.",
-      tech: ["Node.js", "Express.js"],
-    },
-    {
-      title: "COVID-19 Facebook chatbot",
-      url: "https://github.com/gurukota/COVID-19-ZIM-API",
-      imageUrl: "/me/images/chatbot.jpg",
-      description:
-        " Facebook Chatbot integrated with the COVID-19 Stats API for Zimbabwe. Empowered users to effortlessly retrieve and interact with pandemic data directly through the Facebook Messenger platform, enhancing accessibility and user engagement.",
-      tech: ["PHP", "Botman"],
-    },
+        title: "COVID-19 API CASE Zimbabwe",
+        url: "https://github.com/gurukota/COVID-19-ZIM-API",
+        imageUrl: "/images/api.png",
+        description:
+          "Developed and deployed a real-time API providing up-to-date COVID-19 statistics for Zimbabwe. Enabled users to access and visualize key pandemic metrics, contributing to public awareness and informed decision-making.",
+      tech: ["Node.js", "Express.js", "mongoDB"],
+    }
   ],
 };
