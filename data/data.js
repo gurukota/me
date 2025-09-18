@@ -37,7 +37,7 @@ export const projects = {
       },
       {
         title: "Zita",
-        url: "https://zita-silk.vercel.app/",
+        url: "https://github.com/gurukota/zita",
         imageUrl: "/me/images/zita.png",
         description:
           "Developed an open-source website dedicated to helping users explore names, their meaning and pronunciation. Users have the ability to contribute their own names to the database and also discover names added by others.",
